@@ -1,0 +1,14 @@
+.button {
+  background-color: lightgoldenrodyellow;
+  width: 150px;
+  height: 30px;
+  border: 1px solid lightgray;
+  border-radius: 5px;
+  margin-bottom: 5px;
+  cursor: pointer;
+}
+.button:hover {
+  color: whitesmoke;
+  background-color: lightpink;
+  border-top-left-radius: 5px;
+}
